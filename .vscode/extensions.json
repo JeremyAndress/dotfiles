@@ -1,6 +1,15 @@
 {
     "recommendations": [
+        // @category:themes
+        "dahong.theme-bear",
         "PKief.material-icon-theme", 
-        "shd101wyy.markdown-preview-enhanced"
+        "coenraads.bracket-pair-colorizer",
+        // @category:snippets
+        "dsznajder.es7-react-js-snippets",
+        "devzstudio.emoji-snippets",
+        // @category:linters
+        "ms-python.python",
+        "ms-azuretools.vscode-docker",
+        "shd101wyy.markdown-preview-enhanced",
     ]
-  }
+}
