@@ -14,8 +14,9 @@ main (){
     then
         echo "Opcion elegida " $options
         echo -e "\e[32mStarting setup process...\033[0m"
-        # apt-get update
-        . ./install_package/mysql.sh
+        apt-get update
+        #. ./install_package/mysql.sh
+        . ./pc_package.sh
         # sh ./install_package/dbeaver.sh
     else
         e_error "Invalid option"
