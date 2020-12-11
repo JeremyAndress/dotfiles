@@ -7,3 +7,4 @@ e_header "Installing PC dependency..."
 . ./install_package/torrent_client.sh
 . ./install_package/vlc.sh
 . ./install_package/ffmpeg.sh
+. ./install_package/docker.sh
