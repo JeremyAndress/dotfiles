@@ -28,3 +28,6 @@ then
 fi
 
 apt-get install docker-ce docker-ce-cli containerd.io
+
+gpasswd -a $USER docker
+newgrp docker
