@@ -10,3 +10,4 @@ e_header "Installing PC dependency..."
 . ./install_package/https.sh
 . ./install_package/docker.sh
 . ./install_package/docker-compose.sh
+. ./install_package/node.sh
