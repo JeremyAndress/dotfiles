@@ -1,0 +1,2 @@
+sudo add-apt-repository --yes ppa:serge-rider/dbeaver-ce
+sudo apt-get --yes install dbeaver-ce
